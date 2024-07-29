@@ -11,6 +11,9 @@ This personal project/experiment is a Javascript Apps Script application linked 
 You can access the Google Sheet at:
 [Flight Search Google Sheet](https://docs.google.com/spreadsheets/d/1pzw7R8CsPcRze-RPXLMO_BoFagba7TEoMUs3gNjI7jw/edit?usp=sharing)
 
+You can access the main file at:
+[Extraction.js](https://github.com/TdjHJ9zM5k/apps-script-flight-search/blob/main/Extraction.js.js)
+
 ## Screenshots
 
 ### Google Sheet Interface
