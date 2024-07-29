@@ -2,11 +2,14 @@
 
 ## General Description
 
-This project is an Apps Script application linked to a Google Sheet. It uses RapidAPI endpoints to search for flights given dates and airports, returning a list of flights with links to purchase tickets, and saves a history of searches.
+This personal project/experiment is a Javascript Apps Script application linked to a Google Sheet. It uses RapidAPI endpoints to search for flights given dates and airports, returning a list of flights with links to purchase tickets, and saves a history of searches.
 
 - **Technology Stack**: Google Apps Script
 - **Integration**: Google Sheets
 - **API**: RapidAPI (Skyscanner)
+
+You can access the Google Sheet at:
+[Flight Search Google Sheet](https://docs.google.com/spreadsheets/d/1pzw7R8CsPcRze-RPXLMO_BoFagba7TEoMUs3gNjI7jw/edit?usp=sharing)
 
 ## Screenshots
 
